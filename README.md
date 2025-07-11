@@ -1,5 +1,5 @@
 - 👋 I'm Radmir Naumenko
 - 🌱 I work in DevOps and Data Science
-- 🔭 I graduated from ITMO University
+- 🔭 I graduated from ITMO University with a degree in Information Systems and Technologies.
 - 💬 Telegram: @waplee
 - ⚡ mail: naumenko.radmir@mail.ru
