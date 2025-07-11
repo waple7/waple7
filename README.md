@@ -1,5 +1,5 @@
 - 👋 I'm Radmir Naumenko
-- 🌱 I’m currently learning Data Science and DevOps
+- 🌱 I work in DevOps and Data Science
 - 🔭 I am a student at ITMO University
 - 💬 Telegram: @waplee
 - ⚡ mail: naumenko.radmir@mail.ru
